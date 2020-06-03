@@ -1,6 +1,6 @@
 # Face Generation
 
-this project aws part of deep learning nanodegree offred by udacity .
+this project is part of deep learning nanodegree offred by udacity .
 
 In this project, I defined and trained a DCGAN on a dataset of faces. the goal was to
 get a generator network to generate *new* images of faces that look as realistic as
